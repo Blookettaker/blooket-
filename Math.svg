@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 2022.10.18.0 https://api.sketch.io -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" sketchjs:metadata="eyJuYW1lIjoiRHJhd2luZy5za2V0Y2hwYWQiLCJzdXJmYWNlIjp7ImlzUGFpbnQiOnRydWUsIm1ldGhvZCI6ImZpbGwiLCJibGVuZCI6Im5vcm1hbCIsImVuYWJsZWQiOnRydWUsIm9wYWNpdHkiOjEsInR5cGUiOiJwYXR0ZXJuIiwicGF0dGVybiI6eyJ0eXBlIjoicGF0dGVybiIsInJlZmxlY3QiOiJuby1yZWZsZWN0IiwicmVwZWF0IjoicmVwZWF0Iiwic21vb3RoaW5nIjpmYWxzZSwic3JjIjoidHJhbnNwYXJlbnRMaWdodCIsInN4IjoxLCJzeSI6MSwieDAiOjAuNSwieDEiOjEsInkwIjowLjUsInkxIjoxfSwiaXNGaWxsIjp0cnVlfSwiY2xpcFBhdGgiOnsiZW5hYmxlZCI6dHJ1ZSwic3R5bGUiOnsic3Ryb2tlU3R5bGUiOiJibGFjayIsImxpbmVXaWR0aCI6MX19LCJkZXNjcmlwdGlvbiI6Ik1hZGUgd2l0aCBTa2V0Y2hwYWQiLCJtZXRhZGF0YSI6e30sImV4cG9ydERQSSI6NzIsImV4cG9ydEZvcm1hdCI6InN2ZyIsImV4cG9ydFF1YWxpdHkiOjAuOTUsInVuaXRzIjoicHgiLCJ3aWR0aCI6MzAwLCJoZWlnaHQiOjMyNS41OTAwMDAwMDAwMDAwMywicGFnZXMiOlt7IndpZHRoIjozMDAsImhlaWdodCI6MzI1LjU5MDAwMDAwMDAwMDAzfV0sInV1aWQiOiJmMDVmMzQwMC1jM2U1LTRlMzYtYmIwOC1lODEwMzBmZjNmZTcifQ==" width="300" height="325.59000000000003" viewBox="0 0 300 325.59000000000003">
+<g style="mix-blend-mode: source-over;" sketchjs:tool="clipart" transform="matrix(1,0,0,1,0,-19.41)">
+	<g id="robot" sketchjs:uid="1">
+		<path d="M263.62,345H36.38A36.38,36.38,0,0,1,0,308.62V259.14H300v49.48A36.38,36.38,0,0,1,263.62,345Z" sketchjs:uid="2" style="fill: #000000; fill-opacity: 1;"/>
+		<rect y="45" rx="36.38" width="300" height="253.39" x="0" ry="36.38" sketchjs:uid="3" style="fill: #000000; fill-opacity: 1;"/>
+		<polygon points="260.95,223.46 170.25,111.81 129.05,111.81 34.47,227.47 0,193 0,225.64 34.47,260.11 149.72,119.18 260.95,256.1 300,217.05 300,184.41 260.95,223.46" sketchjs:uid="4" style="fill: #000000; fill-opacity: 1;"/>
+		<polygon points="72.15,234.52 72.15,277.59 88.34,277.59 88.34,252.25 72.15,234.52" sketchjs:uid="5" style="fill: #5e00ad; fill-opacity: 1;"/>
+		<polygon points="211.66,252.25 211.66,277.59 227.85,277.59 227.85,234.52 211.66,252.25" sketchjs:uid="6" style="fill: #5e00ad; fill-opacity: 1;"/>
+		<polygon points="211.66,252.25 227.85,234.52 72.15,234.52 88.34,252.25 211.66,252.25" sketchjs:uid="7" style="fill: #5e00ad; fill-opacity: 1;"/>
+		<rect x="88.34" y="252.25" width="123.32" height="25.34" sketchjs:uid="8" style="fill: #000000; fill-opacity: 1;"/>
+		<path d="M283.26,165.08a48,48,0,0,1-95.94,0Z" sketchjs:uid="9" style="fill: rgb(251, 172, 33);"/>
+		<path d="M268.22,179.75h0a48,48,0,0,1-39.29,32.87,49.5,49.5,0,0,0,6.37.43,48,48,0,0,0,48-48Z" sketchjs:uid="10" style="fill: #5e00ad; fill-opacity: 1;"/>
+		<path d="M268.21,179.75H189.62a48,48,0,0,0,39.3,32.87A48,48,0,0,0,268.21,179.75Z" sketchjs:uid="11" style="fill: #5e00ad; fill-opacity: 1;"/>
+		<path d="M270.51,165.08H187.32a47.72,47.72,0,0,0,2.3,14.67h78.6l15-14.67Z" sketchjs:uid="12" style="fill: #5e00ad; fill-opacity: 1;"/>
+		<path d="M112.68,165.08a48,48,0,0,1-95.94,0Z" sketchjs:uid="13" style="fill: rgb(251, 172, 33);"/>
+		<path d="M31.78,179.75h0l-15-14.67a48,48,0,0,0,48,48,49.5,49.5,0,0,0,6.37-.43A48,48,0,0,1,31.78,179.75Z" sketchjs:uid="14" style="fill: #5e00ad; fill-opacity: 1;"/>
+		<path d="M110.38,179.75H31.78a48,48,0,0,0,39.3,32.87A48,48,0,0,0,110.38,179.75Z" sketchjs:uid="15" style="fill: #5e00ad; fill-opacity: 1;"/>
+		<path d="M29.49,165.08H16.74l15,14.67h78.6a47.72,47.72,0,0,0,2.3-14.67Z" sketchjs:uid="16" style="fill: #5e00ad; fill-opacity: 1;"/>
+		<path d="M199.78,45,150,96.85,100.22,45h-57l76.55,102h0l3.48,5c7.39,10.74,17.09,16.11,26.78,16.11s19.39-5.37,26.78-16.11l3.48-5h0l47.63-57.54L258.49,45Z" sketchjs:uid="17" style="fill: #000000; fill-opacity: 1;"/>
+		<path d="M150,124.29c6.75,0,13.5-3.05,19.21-9.14L259,19.41H228.73c-8.9,0-17.58,4.06-24.82,11.59L150,87.16v37.13Z" sketchjs:uid="18" style="fill: #7607d8; fill-opacity: 1;"/>
+		<path d="M150,124.29V87.16L96.09,31c-7.24-7.53-15.92-11.59-24.82-11.59H41l89.83,95.74C136.5,121.24,143.25,124.29,150,124.29Z" sketchjs:uid="19" style="fill: #7607d8; fill-opacity: 1;"/>
+		<path d="M130.79,115.15,41,19.41l83.1,110.7h0l3,4.33c6.34,9.2,14.65,13.8,23,13.8v-24C143.25,124.29,136.5,121.24,130.79,115.15Z" sketchjs:uid="20" style="fill: #000000; fill-opacity: 1;"/>
+		<path d="M169.21,115.15c-5.71,6.09-12.46,9.14-19.21,9.14v24c8.31,0,16.62-4.6,23-13.8l3-4.33h0l40.82-49.32L259,19.41Z" sketchjs:uid="21" style="fill: #000000; fill-opacity: 1;"/>
+	</g>
+</g>
+</svg>
